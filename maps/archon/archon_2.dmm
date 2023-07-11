@@ -1,142 +1,282 @@
-"ak" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"aa" = (/obj/effect/floor_decal/corner/blue{dir = 5},/obj/structure/table,/obj/machinery/computer/guestpass{pixel_y = 30},/obj/item/paper/crumpled,/turf/simulated/floor/tiled/dark,/area/space)
+"ak" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/tiled,/area/space)
+"ao" = (/obj/effect/floor_decal/steeldecal/steel_decals_central6,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"aC" = (/obj/effect/floor_decal/corner/blue{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
 "aK" = (/obj/structure/railing/mapped,/turf/simulated/floor/tiled/dark,/area/space)
 "aL" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/closet/firecloset,/turf/simulated/floor/tiled/monotile,/area/space)
+"aP" = (/obj/item/stool/bar/padded,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/walnut,/area/space)
 "aU" = (/turf/simulated/floor/tiled/dark,/area/space)
+"aY" = (/obj/structure/table/woodentable/walnut,/obj/structure/flora/pottedplant/deskleaf,/turf/simulated/floor/wood/walnut,/area/space)
+"ba" = (/obj/machinery/firealarm,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"be" = (/obj/effect/floor_decal/corner/white{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
 "bj" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/structure/fitness/weightlifter,/obj/item/trash/candy/proteinbar,/turf/simulated/floor/tiled/dark,/area/space)
+"bp" = (/obj/structure/flora/pottedplant/largebush,/turf/simulated/floor/wood/walnut,/area/space)
 "bv" = (/obj/structure/bed/chair/comfy/green,/turf/simulated/floor/tiled/dark,/area/space)
 "bz" = (/obj/machinery/cryopod,/obj/effect/floor_decal/industrial/warning/dust{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"bB" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/obj/structure/cable{icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/steel_grid,/area/space)
+"bQ" = (/obj/structure/flora/pottedplant/stoutbush,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 1},/obj/effect/floor_decal/corner/green,/turf/simulated/floor/tiled/dark,/area/space)
+"bR" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/space)
+"ce" = (/obj/machinery/portable_atmospherics/canister/air,/turf/simulated/floor/plating,/area/space)
 "cr" = (/obj/effect/floor_decal/industrial/outline/yellow,/turf/simulated/floor/tiled/techfloor,/area/space)
 "cz" = (/obj/effect/floor_decal/corner/yellow{dir = 10},/turf/simulated/floor/tiled/techfloor,/area/space)
 "cL" = (/obj/machinery/portable_atmospherics/hydroponics,/turf/simulated/floor/tiled/dark,/area/space)
-"cR" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"cO" = (/obj/effect/catwalk_plated,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/space)
+"cR" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"cW" = (/obj/structure/catwalk,/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/plating,/area/space)
+"db" = (/obj/effect/floor_decal/corner/blue{dir = 8},/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
 "dk" = (/obj/structure/sign/department/security,/turf/space,/area/space)
+"dl" = (/obj/effect/floor_decal/industrial/shutoff,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "dq" = (/obj/effect/floor_decal/corner/blue,/turf/simulated/floor/tiled,/area/space)
-"dt" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/tiled,/area/space)
-"du" = (/obj/structure/railing/mapped{dir = 4},/turf/space,/area/space)
+"ds" = (/obj/effect/floor_decal/corner/white{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"dt" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/obj/machinery/power/apc{dir = 4},/obj/structure/cable,/turf/simulated/floor/tiled,/area/space)
+"du" = (/obj/structure/railing/mapped{dir = 4},/turf/exterior/open,/area/space)
 "dv" = (/obj/structure/bed/roller/ironingboard,/obj/item/ironingiron,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"dx" = (/obj/structure/railing/mapped{dir = 4},/turf/simulated/floor/plating,/area/space)
 "dE" = (/obj/structure/sign/warning/moving_parts,/turf/simulated/wall/prepainted,/area/space)
+"dK" = (/obj/effect/floor_decal/corner_techfloor_gray,/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"dL" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/monofloor{dir = 1},/area/space)
+"dO" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
+"dQ" = (/obj/effect/catwalk_plated,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/plating,/area/space)
 "dR" = (/obj/structure/sign/department/security/alt,/turf/space,/area/space)
-"dT" = (/obj/structure/table,/obj/item/trash/fishegg,/turf/simulated/floor/tiled/dark,/area/space)
+"dT" = (/obj/structure/table,/obj/item/trash/fishegg,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "dU" = (/obj/machinery/vending/coffee,/turf/simulated/floor/tiled/monofloor,/area/space)
 "ed" = (/obj/effect/floor_decal/corner/yellow{dir = 5},/turf/simulated/floor/tiled/techfloor,/area/space)
 "ej" = (/obj/effect/floor_decal/corner/yellow{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
 "et" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset{dir = 4},/turf/simulated/floor/tiled/steel_grid,/area/space)
+"eC" = (/obj/machinery/computer/modular/preset/civilian{dir = 4},/turf/simulated/floor/carpet,/area/space)
+"eD" = (/obj/effect/floor_decal/corner/white,/obj/effect/floor_decal/corner/red{dir = 8},/turf/simulated/floor/fixed,/area/space)
+"eF" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/rust/part_rusted1{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"eO" = (/obj/effect/catwalk_plated,/obj/structure/cable{icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/plating,/area/space)
+"eP" = (/obj/effect/floor_decal/corner/green{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
 "eU" = (/turf/simulated/wall/r_wall/prepainted,/area/space)
+"fd" = (/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"fH" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/dark,/area/space)
 "fL" = (/obj/machinery/computer/cryopod,/turf/simulated/wall/r_wall/prepainted,/area/space)
+"fN" = (/obj/structure/table,/obj/item/multitool,/obj/effect/floor_decal/corner/orange,/turf/simulated/floor/tiled/techfloor,/area/space)
+"fR" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "fS" = (/obj/effect/floor_decal/corner/green{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "fU" = (/obj/structure/sign/department/star_of_life,/turf/space,/area/space)
+"fW" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 10},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"ga" = (/obj/effect/floor_decal/corner/orange{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"gb" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled,/area/space)
+"gi" = (/obj/effect/floor_decal/corner/orange{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
 "gj" = (/obj/structure/closet/crate/freezer,/obj/effect/floor_decal/corner/black{dir = 8},/obj/effect/floor_decal/corner/black{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"go" = (/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"gu" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/steel_grid,/area/space)
 "gw" = (/obj/structure/curtain/bar,/turf/simulated/floor/tiled,/area/space)
+"gB" = (/obj/effect/floor_decal/corner/blue{dir = 9},/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "gE" = (/obj/structure/closet/crate/secure/hydrosec,/turf/simulated/floor/fixed,/area/space)
-"gJ" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"gF" = (/obj/effect/floor_decal/corner/orange{dir = 9},/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"gJ" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/fixed,/area/space)
+"gR" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 10},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"gS" = (/obj/effect/floor_decal/corner_techfloor_gray,/turf/simulated/floor/tiled/dark,/area/space)
+"gX" = (/obj/structure/table/woodentable/walnut,/obj/machinery/firealarm,/obj/item/storage/box/donut,/turf/simulated/floor/wood/walnut,/area/space)
+"gZ" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"hm" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/fixed,/area/space)
+"ht" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
 "hA" = (/obj/machinery/vending/snack,/turf/simulated/floor/tiled/monotile,/area/space)
-"hB" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/closet/firecloset,/obj/machinery/power/apc{dir = 1},/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
+"hB" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/closet/firecloset,/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
 "hG" = (/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled/steel_grid,/area/space)
 "hK" = (/obj/machinery/vending/cola,/turf/simulated/floor/tiled/monotile,/area/space)
+"hS" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
 "hW" = (/obj/effect/floor_decal/corner/yellow{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/space)
+"il" = (/obj/effect/floor_decal/corner/white{dir = 1},/obj/effect/floor_decal/corner/red{dir = 4},/turf/simulated/floor/fixed,/area/space)
 "in" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/turf/simulated/floor/tiled/techfloor,/area/space)
 "ir" = (/obj/structure/sign/department/chemistry,/turf/space,/area/space)
+"iy" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/obj/machinery/firealarm,/turf/simulated/floor/tiled/dark,/area/space)
+"iC" = (/obj/effect/floor_decal/corner/white,/obj/effect/floor_decal/corner/blue{dir = 8},/turf/simulated/floor/fixed,/area/space)
+"iD" = (/obj/machinery/firealarm{dir = 4},/turf/simulated/floor/plating,/area/space)
 "iG" = (/obj/structure/sign/department/science_2,/turf/space,/area/space)
 "iH" = (/obj/effect/floor_decal/corner/green{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "iK" = (/obj/structure/closet/secure_closet/hydroponics,/turf/simulated/floor/fixed,/area/space)
 "iM" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/machinery/firealarm,/turf/simulated/floor/tiled,/area/space)
 "iU" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/closet/crate/trashcart,/turf/simulated/floor/tiled,/area/space)
-"jc" = (/obj/structure/mirror{pixel_y = 24},/turf/simulated/floor/tiled,/area/space)
-"jl" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 8},/turf/space,/area/space)
+"jc" = (/obj/structure/mirror{pixel_y = 24},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
+"jk" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/rust,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"jl" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 8},/turf/exterior/open,/area/space)
 "jm" = (/turf/simulated/floor/carpet,/area/space)
-"jy" = (/obj/machinery/power/apc{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"jy" = (/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/tiled/dark,/area/space)
 "jz" = (/obj/effect/floor_decal/corner/red{dir = 8},/obj/machinery/vending/wallmed2{pixel_y = 30},/turf/simulated/floor/tiled,/area/space)
 "jH" = (/turf/simulated/wall/prepainted,/area/space)
 "jM" = (/obj/structure/railing/mapped{dir = 1},/turf/simulated/floor/plating,/area/space)
-"kc" = (/obj/effect/floor_decal/corner/green,/obj/machinery/firealarm{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"kc" = (/obj/effect/floor_decal/corner/green,/obj/machinery/firealarm{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
+"kd" = (/obj/structure/table,/obj/item/storage/toolbox/mechanical,/obj/effect/floor_decal/corner/orange{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
 "kp" = (/obj/effect/floor_decal/corner/green{dir = 1},/turf/simulated/floor/fixed,/area/space)
-"kS" = (/obj/effect/floor_decal/corner/green{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
-"lb" = (/obj/effect/floor_decal/corner/black{dir = 8},/obj/effect/floor_decal/corner/black{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"kq" = (/obj/structure/table/woodentable/walnut,/obj/item/chems/drinks/glass2/coffeecup/dais,/turf/simulated/floor/carpet,/area/space)
+"kG" = (/obj/structure/railing/mapped{dir = 1},/turf/exterior/open,/area/space)
+"kS" = (/obj/effect/floor_decal/corner/white{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"lb" = (/obj/effect/floor_decal/corner/black{dir = 8},/obj/effect/floor_decal/corner/black{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "le" = (/obj/machinery/firealarm,/turf/simulated/floor/wood/walnut,/area/space)
 "lg" = (/obj/structure/railing/mapped,/turf/simulated/floor/plating,/area/space)
+"li" = (/obj/structure/table,/obj/item/paper_bin,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"ln" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 9},/obj/effect/floor_decal/rust/part_rusted1{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"lF" = (/obj/structure/cable{icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
 "lJ" = (/obj/item/trash/liquidfood,/obj/item/trash/fishegg,/turf/simulated/floor/plating,/area/space)
+"lW" = (/obj/effect/floor_decal/corner/white{dir = 1},/obj/effect/floor_decal/corner/blue{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
 "lX" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 4},/obj/machinery/cryopod{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "mg" = (/obj/machinery/door/firedoor/autoset{dir = 4},/turf/simulated/floor/plating,/area/space)
+"mq" = (/obj/structure/bed/chair/armchair/brown,/turf/simulated/floor/wood/walnut,/area/space)
 "mr" = (/obj/structure/closet/crate/freezer/rations,/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black{dir = 8},/turf/simulated/floor/tiled,/area/space)
-"mC" = (/obj/effect/floor_decal/corner/green,/turf/simulated/floor/fixed,/area/space)
+"mC" = (/obj/effect/floor_decal/corner/green,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/fixed,/area/space)
+"mN" = (/obj/machinery/door/firedoor/autoset{dir = 4},/obj/machinery/door/blast/shutters/open{dir = 8},/turf/simulated/floor/tiled/steel_grid,/area/space)
 "mU" = (/obj/effect/floor_decal/corner/green/diagonal,/turf/simulated/floor/fixed,/area/space)
+"nb" = (/obj/effect/floor_decal/industrial/loading{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"nf" = (/obj/machinery/firealarm,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"nk" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"nr" = (/obj/structure/closet/toolcloset,/obj/effect/floor_decal/corner/orange{dir = 10},/turf/simulated/floor/tiled/techfloor,/area/space)
 "nu" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/table,/obj/item/storage/tray,/turf/simulated/floor/tiled,/area/space)
 "nv" = (/obj/structure/closet/secure_closet/hydroponics/hydro,/turf/simulated/floor/fixed,/area/space)
+"ny" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/wood/walnut,/area/space)
 "nF" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
-"nG" = (/obj/effect/floor_decal/corner/green{dir = 6},/turf/simulated/floor/tiled,/area/space)
+"nG" = (/obj/effect/floor_decal/corner/green{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "nL" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/turf/simulated/floor/plating,/area/space)
 "nN" = (/obj/machinery/washing_machine,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
-"px" = (/obj/structure/railing/mapped{dir = 8},/turf/space,/area/space)
+"oa" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"oe" = (/obj/structure/catwalk,/turf/exterior/open,/area/space)
+"oh" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"oj" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled,/area/space)
+"oC" = (/obj/machinery/portable_atmospherics/canister/empty/oxygen,/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"oE" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/carpet,/area/space)
+"oF" = (/obj/structure/sign/warning/nosmoking_1,/turf/simulated/wall/r_wall/prepainted,/area/space)
+"oW" = (/obj/effect/catwalk_plated,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "2-8"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/plating,/area/space)
+"ph" = (/obj/machinery/papershredder,/turf/simulated/floor/tiled/dark,/area/space)
+"pi" = (/obj/effect/floor_decal/corner/blue,/turf/simulated/floor/tiled/dark,/area/space)
+"px" = (/obj/structure/railing/mapped{dir = 8},/turf/exterior/open,/area/space)
 "pO" = (/obj/effect/floor_decal/corner/purple{dir = 8},/obj/effect/floor_decal/corner/yellow,/turf/simulated/floor/tiled,/area/space)
+"pQ" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/obj/effect/floor_decal/rust/part_rusted1{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"pS" = (/obj/structure/catwalk,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/plating,/area/space)
 "pY" = (/obj/effect/floor_decal/industrial/outline/blue,/obj/structure/closet/emcloset,/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
+"qb" = (/obj/effect/floor_decal/corner/red{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"qc" = (/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "qf" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 4},/turf/simulated/floor/plating,/area/space)
 "qg" = (/obj/effect/floor_decal/corner/green{dir = 4},/obj/structure/closet/boxinggloves,/turf/simulated/floor/tiled/dark,/area/space)
 "qk" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/plating,/area/space)
+"ql" = (/obj/effect/floor_decal/corner/green{dir = 6},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled,/area/space)
 "qq" = (/obj/structure/stairs{dir = 4},/obj/structure/railing/mapped,/turf/simulated/floor/tiled/techfloor,/area/space)
 "qt" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 8},/turf/simulated/floor/plating,/area/space)
+"qG" = (/obj/effect/floor_decal/industrial/shutoff,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"qK" = (/obj/machinery/holomap,/turf/simulated/wall/r_wall/prepainted,/area/space)
 "qN" = (/obj/structure/reagent_dispensers/water_cooler,/obj/effect/floor_decal/corner/green,/turf/simulated/floor/fixed,/area/space)
 "qQ" = (/obj/machinery/cryopod{dir = 4},/obj/effect/floor_decal/industrial/warning/dust{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "qS" = (/obj/structure/sign/department/janitor,/turf/simulated/wall/prepainted,/area/space)
-"qV" = (/obj/effect/floor_decal/corner/orange{dir = 8},/turf/simulated/floor/fixed,/area/space)
+"qT" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/monofloor,/area/space)
+"qU" = (/obj/machinery/door/firedoor/autoset{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/steel_grid,/area/space)
+"qV" = (/obj/effect/floor_decal/corner/orange{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"qY" = (/obj/structure/bookcase,/turf/simulated/floor/carpet,/area/space)
 "rc" = (/obj/machinery/cryopod,/obj/effect/floor_decal/industrial/warning/dust{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "rd" = (/obj/effect/floor_decal/corner/green{dir = 5},/obj/machinery/firealarm{dir = 1},/turf/simulated/floor/fixed,/area/space)
 "re" = (/turf/simulated/floor/tiled/techfloor,/area/space)
-"rn" = (/obj/machinery/power/apc{dir = 1},/obj/item/storage/laundry_basket,/obj/structure/table,/obj/item/storage/box/detergent,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"rn" = (/obj/machinery/power/apc{dir = 1},/obj/item/storage/laundry_basket,/obj/structure/table,/obj/item/storage/box/detergent,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/tiled,/area/space)
+"rt" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 10},/obj/effect/floor_decal/rust/part_rusted1,/obj/effect/floor_decal/rust/part_rusted1{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"ru" = (/obj/effect/floor_decal/corner/green{dir = 9},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"rJ" = (/obj/structure/table/woodentable/walnut,/obj/machinery/chemical_dispenser/bar_coffee,/turf/simulated/floor/carpet,/area/space)
 "rQ" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/corner/orange{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
 "rZ" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/closet/firecloset,/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
 "sb" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/machinery/vending/fitness,/turf/simulated/floor/fixed,/area/space)
+"sk" = (/obj/effect/floor_decal/corner/blue{dir = 6},/obj/structure/filing_cabinet,/turf/simulated/floor/tiled/dark,/area/space)
 "sp" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled/dark,/area/space)
 "ss" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/machinery/vending/dinnerware,/turf/simulated/floor/tiled,/area/space)
+"st" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
+"su" = (/obj/effect/floor_decal/corner/white{dir = 1},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/fixed,/area/space)
+"sv" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 9},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/space)
 "sB" = (/turf/simulated/floor/wood/walnut,/area/space)
 "sG" = (/obj/machinery/cryopod,/obj/effect/floor_decal/industrial/warning/dust{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
 "sO" = (/obj/structure/grille,/turf/space,/area/space)
-"sP" = (/obj/machinery/power/apc{dir = 1},/turf/simulated/floor/wood/walnut,/area/space)
+"sP" = (/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/wood/walnut,/area/space)
 "sY" = (/obj/item/mirror,/turf/simulated/floor/plating,/area/space)
 "tj" = (/obj/effect/floor_decal/corner/orange{dir = 8},/obj/item/wrench,/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/tiled/techfloor,/area/space)
+"tm" = (/obj/machinery/power/apc{dir = 8},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/wood/walnut,/area/space)
 "tn" = (/obj/structure/skele_stand{desc = "The model has been in here for a while. It might want off the ride."; name = "Mr. Bones"},/turf/simulated/floor/plating,/area/space)
+"tq" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "ts" = (/obj/effect/floor_decal/industrial/shutoff,/turf/simulated/floor/tiled/dark,/area/space)
+"tu" = (/obj/effect/floor_decal/corner/white{dir = 8},/obj/effect/floor_decal/corner/red,/turf/simulated/floor/fixed,/area/space)
 "tv" = (/obj/structure/closet/secure_closet/bar,/turf/simulated/floor/wood/walnut,/area/space)
+"tw" = (/obj/machinery/firealarm,/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"ty" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "tA" = (/obj/item/stool/bar/padded,/turf/simulated/floor/wood/walnut,/area/space)
 "tG" = (/obj/effect/floor_decal/industrial/outline/blue,/obj/structure/closet/emcloset,/turf/simulated/floor/tiled/monofloor{dir = 1},/area/space)
+"tN" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/wood/walnut,/area/space)
+"tS" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"tV" = (/obj/machinery/door/firedoor/autoset,/turf/exterior/open,/area/space)
 "ua" = (/obj/machinery/seed_extractor,/turf/simulated/floor/fixed,/area/space)
+"ub" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/obj/machinery/firealarm,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"uf" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/plating,/area/space)
 "ug" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/structure/flora/pottedplant/shoot,/turf/simulated/floor/fixed,/area/space)
 "un" = (/obj/machinery/vending/hotfood,/turf/simulated/floor/tiled/monotile,/area/space)
-"us" = (/obj/effect/floor_decal/corner_techfloor_gray,/turf/simulated/floor/tiled/dark,/area/space)
-"uR" = (/obj/structure/catwalk,/obj/effect/decal/cleanable/blood/oil,/obj/machinery/power/apc{dir = 1},/turf/simulated/floor/plating,/area/space)
-"uT" = (/obj/machinery/firealarm{dir = 8},/turf/simulated/floor/fixed,/area/space)
+"us" = (/obj/effect/floor_decal/corner_techfloor_gray,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"uC" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/fixed,/area/space)
+"uR" = (/obj/structure/catwalk,/obj/effect/decal/cleanable/blood/oil,/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/plating,/area/space)
+"uT" = (/obj/machinery/firealarm{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
 "uZ" = (/obj/effect/floor_decal/corner/orange{dir = 9},/turf/simulated/floor/tiled/techfloor,/area/space)
 "va" = (/obj/machinery/vending/boozeomat,/turf/simulated/wall/prepainted,/area/space)
 "vb" = (/obj/effect/floor_decal/corner/green{dir = 9},/turf/simulated/floor/tiled,/area/space)
+"vd" = (/obj/effect/floor_decal/corner/green{dir = 8},/turf/simulated/floor/fixed,/area/space)
 "vn" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
-"wc" = (/obj/structure/closet/secure_closet,/obj/effect/floor_decal/corner/orange{dir = 6},/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
+"vr" = (/obj/machinery/firealarm,/turf/simulated/floor/tiled/techfloor,/area/space)
+"vy" = (/obj/structure/catwalk,/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/plating,/area/space)
+"vL" = (/obj/structure/sign/warning/nosmoking_1,/turf/simulated/wall/prepainted,/area/space)
+"vN" = (/obj/item/clothing/suit/space/void/medical/alt/prepared,/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
+"vW" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"wc" = (/obj/structure/closet/secure_closet,/obj/effect/floor_decal/corner/orange{dir = 6},/obj/machinery/power/apc{dir = 4},/obj/structure/cable,/turf/simulated/floor/tiled/techfloor,/area/space)
+"wg" = (/obj/effect/floor_decal/rust,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "wi" = (/obj/effect/floor_decal/corner/green{dir = 5},/obj/machinery/smartfridge/seeds{pixel_y = -32},/turf/simulated/floor/fixed,/area/space)
 "wl" = (/obj/machinery/door/blast/shutters/open,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/plating,/area/space)
+"wn" = (/obj/structure/railing/mapped{dir = 4},/obj/structure/railing/mapped{dir = 1},/turf/simulated/floor/plating,/area/space)
 "wp" = (/obj/structure/catwalk,/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/plating,/area/space)
 "ww" = (/obj/structure/closet/emcloset,/obj/effect/floor_decal/corner/orange,/turf/simulated/floor/tiled/techfloor,/area/space)
 "wC" = (/obj/machinery/door/airlock/hatch/maintenance,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled/steel_grid,/area/space)
 "wH" = (/obj/structure/reagent_dispensers/watertank,/turf/simulated/floor/fixed,/area/space)
 "wJ" = (/obj/structure/stairs{dir = 4},/obj/structure/railing/mapped{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/space)
-"wK" = (/obj/effect/floor_decal/corner/orange{dir = 9},/turf/simulated/floor/fixed,/area/space)
+"wK" = (/obj/effect/floor_decal/corner/orange{dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"wP" = (/obj/structure/bed/sofa/right/black{dir = 1},/obj/effect/floor_decal/corner/green{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
+"xb" = (/obj/structure/railing/mapped{dir = 8},/obj/structure/railing/mapped{dir = 1},/turf/exterior/open,/area/space)
+"xf" = (/obj/effect/floor_decal/corner/white,/turf/simulated/floor/fixed,/area/space)
 "xg" = (/obj/machinery/door/airlock/hatch/maintenance,/obj/machinery/door/firedoor/autoset{dir = 4},/turf/simulated/floor/tiled/steel_grid,/area/space)
-"xs" = (/obj/effect/floor_decal/corner/orange{dir = 1},/turf/simulated/floor/fixed,/area/space)
+"xi" = (/obj/effect/floor_decal/corner/green{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
+"xs" = (/obj/effect/floor_decal/corner/orange{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
 "xx" = (/obj/structure/table,/obj/item/chems/drinks/cans/waterbottle,/obj/item/chems/condiment/small/packet/watermelon,/obj/item/towel/brown,/turf/simulated/floor/tiled/dark,/area/space)
-"xD" = (/obj/machinery/firealarm,/turf/simulated/floor/tiled/dark,/area/space)
+"xD" = (/obj/structure/filing_cabinet/chestdrawer,/turf/simulated/floor/tiled/dark,/area/space)
+"xK" = (/obj/effect/decal/cleanable/blood/oil,/obj/structure/cable{icon_state = "1-8"},/obj/structure/catwalk,/turf/simulated/floor/plating,/area/space)
 "xO" = (/obj/structure/railing/mapped{dir = 1},/turf/space,/area/space)
+"xT" = (/obj/structure/railing/mapped{dir = 4},/obj/structure/railing/mapped,/turf/simulated/floor/plating,/area/space)
 "xW" = (/obj/structure/sign/double/barsign,/turf/simulated/wall/prepainted,/area/space)
+"ya" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/obj/effect/floor_decal/corner_techfloor_gray,/obj/structure/tank_rack/oxygen,/obj/random/tank,/turf/simulated/floor/tiled/dark,/area/space)
+"yh" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/walnut,/area/space)
+"yl" = (/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"yv" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/corner/orange{dir = 1},/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "yB" = (/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/plating,/area/space)
 "yE" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/machinery/cooker/oven,/turf/simulated/floor/tiled,/area/space)
 "yQ" = (/obj/structure/sign/deck/second,/turf/simulated/wall/prepainted,/area/space)
 "yR" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
+"yU" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/white,/turf/simulated/floor/fixed,/area/space)
+"za" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"zb" = (/obj/effect/decal/cleanable/blood/oil,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating,/area/space)
 "zg" = (/obj/machinery/cryopod{dir = 4},/obj/effect/floor_decal/industrial/warning/dust{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "zs" = (/obj/machinery/cryopod{dir = 4},/obj/effect/floor_decal/industrial/warning/dust{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
-"zB" = (/obj/machinery/door/firedoor/autoset,/obj/effect/floor_decal/industrial/warning/fulltile,/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
+"zB" = (/obj/machinery/door/firedoor/autoset,/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
 "zE" = (/obj/effect/floor_decal/corner/green{dir = 9},/turf/simulated/floor/tiled/techfloor,/area/space)
+"zI" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/obj/effect/floor_decal/rust/part_rusted1{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"zQ" = (/obj/effect/floor_decal/corner/red,/obj/effect/floor_decal/corner/white{dir = 8},/turf/simulated/floor/fixed,/area/space)
+"zR" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "zS" = (/obj/structure/table/woodentable/walnut,/obj/machinery/chemical_dispenser/bar_soft,/turf/simulated/floor/wood/walnut,/area/space)
+"zT" = (/obj/effect/floor_decal/rust/part_rusted1{dir = 1},/obj/effect/floor_decal/rust/part_rusted1{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"Ac" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/rust/part_rusted1,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
 "Af" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
-"Av" = (/obj/effect/floor_decal/corner/black{dir = 4},/obj/effect/floor_decal/corner/black{dir = 8},/turf/simulated/floor/tiled,/area/space)
+"Ai" = (/obj/effect/floor_decal/industrial/shutoff,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"Am" = (/obj/effect/floor_decal/corner/white{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
+"Av" = (/obj/effect/floor_decal/corner/black{dir = 4},/obj/effect/floor_decal/corner/black{dir = 8},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
+"Aw" = (/obj/effect/catwalk_plated,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating,/area/space)
+"Az" = (/obj/effect/floor_decal/corner/green{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
 "AF" = (/obj/structure/grille,/turf/simulated/floor/plating,/area/space)
+"AG" = (/obj/effect/floor_decal/corner/blue{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
+"AI" = (/obj/effect/floor_decal/corner/red,/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/fixed,/area/space)
 "AK" = (/obj/structure/bed/chair/comfy/green{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"AR" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"AZ" = (/obj/item/clothing/suit/space/void/security/prepared,/obj/effect/floor_decal/corner/red{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
 "Bd" = (/obj/structure/table/woodentable/walnut,/obj/machinery/chemical_dispenser/bar_alc,/turf/simulated/floor/wood/walnut,/area/space)
+"Bk" = (/obj/structure/bed/sofa/left/black{dir = 4},/obj/effect/floor_decal/corner/green{dir = 9},/obj/machinery/power/apc{dir = 8},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"Bl" = (/obj/machinery/vending/coffee,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"Bo" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "Bs" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled/steel_grid,/area/space)
 "Bv" = (/obj/effect/floor_decal/corner/green{dir = 1},/obj/structure/flora/pottedplant/minitree,/obj/machinery/vending/wallmed2{pixel_y = 30},/turf/simulated/floor/tiled/techfloor,/area/space)
 "BC" = (/obj/effect/paint/blue,/turf/simulated/wall/prepainted,/area/space)
@@ -145,137 +285,267 @@
 "BQ" = (/obj/structure/catwalk,/obj/structure/catwalk,/turf/simulated/floor/plating,/area/space)
 "BR" = (/obj/effect/floor_decal/corner/green{dir = 10},/turf/simulated/floor/tiled,/area/space)
 "BS" = (/obj/structure/railing/mapped{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
-"BX" = (/obj/machinery/power/apc{dir = 1},/obj/effect/floor_decal/corner/green,/turf/simulated/floor/tiled,/area/space)
+"BU" = (/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/wood/walnut,/area/space)
+"BV" = (/obj/effect/floor_decal/corner/red{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"BX" = (/obj/machinery/power/apc{dir = 1},/obj/effect/floor_decal/corner/green,/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled,/area/space)
+"BY" = (/obj/effect/floor_decal/corner/green,/turf/simulated/floor/tiled/dark,/area/space)
+"Ce" = (/obj/effect/floor_decal/corner/yellow{dir = 4},/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Cf" = (/obj/machinery/power/apc{dir = 4},/obj/structure/catwalk,/obj/structure/cable,/turf/simulated/floor/plating,/area/space)
 "Ci" = (/obj/machinery/vending/sol,/turf/simulated/floor/tiled/monotile,/area/space)
-"CL" = (/obj/effect/floor_decal/corner/black,/turf/simulated/floor/tiled/dark,/area/space)
+"Cs" = (/obj/effect/floor_decal/corner/white{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"Cy" = (/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/fixed,/area/space)
+"CD" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/fixed,/area/space)
+"CI" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"CL" = (/obj/effect/floor_decal/corner/black,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/dark,/area/space)
 "CM" = (/obj/structure/stairs{dir = 8},/obj/structure/railing/mapped{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/space)
-"CT" = (/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"CT" = (/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled,/area/space)
 "Dn" = (/obj/effect/floor_decal/corner_techfloor_gray,/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
-"Ds" = (/obj/effect/floor_decal/corner/green{dir = 1},/obj/effect/floor_decal/corner/yellow{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"Ds" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/obj/effect/floor_decal/corner/green{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
 "Dx" = (/obj/effect/floor_decal/corner/purple,/turf/simulated/floor/tiled,/area/space)
 "Dy" = (/obj/effect/floor_decal/corner/yellow{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"DE" = (/obj/effect/catwalk_plated,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/plating,/area/space)
+"DG" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 10},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "DO" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"DS" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"Ee" = (/obj/structure/catwalk,/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/plating,/area/space)
+"El" = (/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/space)
 "En" = (/obj/effect/catwalk_plated,/turf/simulated/floor/plating,/area/space)
+"Ex" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/obj/effect/floor_decal/rust/part_rusted1,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"ED" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"EE" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 4},/turf/exterior/open,/area/space)
 "EK" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/closet/firecloset,/turf/simulated/floor/tiled/monofloor,/area/space)
 "EX" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/table,/obj/machinery/door/blast/shutters/open,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled,/area/space)
 "EY" = (/obj/structure/hygiene/toilet{dir = 4},/obj/structure/hygiene/sink{pixel_y = 23},/turf/simulated/floor/tiled,/area/space)
-"Fd" = (/obj/effect/floor_decal/corner/green{dir = 10},/turf/simulated/floor/fixed,/area/space)
+"EZ" = (/obj/effect/floor_decal/industrial/shutoff,/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled,/area/space)
+"Fd" = (/obj/effect/floor_decal/corner/green{dir = 10},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
 "Fh" = (/obj/machinery/firealarm,/turf/simulated/floor/fixed,/area/space)
 "Fi" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/turf/simulated/floor/tiled/dark,/area/space)
 "Fk" = (/turf/simulated/floor/tiled/steel_grid,/area/space)
-"Fl" = (/obj/effect/floor_decal/corner/green,/obj/structure/flora/pottedplant/shoot,/turf/simulated/floor/tiled/techfloor,/area/space)
+"Fl" = (/obj/effect/floor_decal/corner/green,/obj/structure/flora/pottedplant/shoot,/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Fn" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/steel_grid,/area/space)
+"Fs" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/obj/effect/floor_decal/rust/part_rusted1,/turf/simulated/floor/tiled/dark,/area/space)
 "Ft" = (/turf/simulated/floor/tiled/monofloor,/area/space)
+"FG" = (/obj/machinery/vending/tool,/obj/effect/floor_decal/corner/orange{dir = 8},/turf/simulated/floor/tiled/techfloor,/area/space)
+"FS" = (/obj/structure/stairs{dir = 8},/obj/structure/railing/mapped{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"FY" = (/obj/structure/catwalk,/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/plating,/area/space)
+"Gq" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/table,/obj/machinery/door/blast/shutters/open,/obj/machinery/door/firedoor/autoset,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"Gv" = (/obj/effect/floor_decal/corner/orange{dir = 6},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Gx" = (/obj/machinery/power/apc{dir = 1},/turf/simulated/floor/plating,/area/space)
 "GD" = (/obj/structure/table/woodentable/walnut,/obj/item/toy/figure/bartender,/obj/item/clothing/under/bartender,/turf/simulated/floor/wood/walnut,/area/space)
 "GG" = (/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "GH" = (/obj/effect/floor_decal/corner/red{dir = 8},/turf/simulated/floor/tiled,/area/space)
-"GI" = (/obj/machinery/power/apc{dir = 1},/turf/simulated/floor/plating,/area/space)
+"GI" = (/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/plating,/area/space)
+"GJ" = (/turf/exterior/open,/area/space)
 "GK" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/structure/bed/chair/janicart,/obj/item/janicart_key,/turf/simulated/floor/tiled/techfloor,/area/space)
 "GT" = (/obj/structure/hygiene/sink{pixel_y = 23},/turf/simulated/floor/tiled,/area/space)
 "GY" = (/obj/effect/floor_decal/corner/green{dir = 4},/obj/structure/fitness/punchingbag,/turf/simulated/floor/tiled/dark,/area/space)
-"Hd" = (/obj/effect/floor_decal/corner/green{dir = 8},/turf/simulated/floor/fixed,/area/space)
-"Hg" = (/obj/machinery/door/firedoor/autoset,/obj/effect/floor_decal/industrial/warning/fulltile,/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
-"Hm" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/turf/simulated/floor/tiled,/area/space)
+"GZ" = (/obj/structure/bed/sofa/left/black{dir = 1},/obj/effect/floor_decal/corner/green{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
+"Hd" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"Hg" = (/obj/machinery/door/firedoor/autoset,/obj/effect/floor_decal/industrial/warning/fulltile,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
+"Hm" = (/obj/effect/floor_decal/corner/yellow{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"Ho" = (/obj/machinery/power/apc{dir = 4},/obj/structure/catwalk,/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/plating,/area/space)
 "Hq" = (/turf/simulated/floor/tiled,/area/space)
+"Hv" = (/obj/effect/floor_decal/corner/white{dir = 1},/obj/effect/floor_decal/corner/blue{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"HA" = (/obj/structure/bed/sofa/right/black{dir = 4},/obj/effect/floor_decal/corner/green{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"HB" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "HI" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/plating,/area/space)
+"HM" = (/obj/structure/table,/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"HN" = (/obj/effect/floor_decal/corner/blue/three_quarters{dir = 1},/obj/structure/table,/obj/machinery/faxmachine,/turf/simulated/floor/tiled/dark,/area/space)
 "HO" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/tiled,/area/space)
-"HU" = (/obj/effect/floor_decal/corner/green{dir = 10},/obj/structure/closet/jcloset,/turf/simulated/floor/tiled/techfloor,/area/space)
-"Ia" = (/obj/machinery/power/apc{dir = 4},/obj/effect/floor_decal/corner/green{dir = 8},/turf/simulated/floor/fixed,/area/space)
+"HQ" = (/obj/effect/floor_decal/corner/blue{dir = 6},/obj/machinery/firealarm{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"HR" = (/obj/structure/catwalk,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating,/area/space)
+"HU" = (/obj/effect/floor_decal/corner/green{dir = 10},/obj/structure/closet/jcloset,/obj/machinery/power/apc,/obj/structure/cable,/turf/simulated/floor/tiled/techfloor,/area/space)
+"Ia" = (/obj/machinery/power/apc{dir = 4},/obj/effect/floor_decal/corner/green{dir = 8},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/fixed,/area/space)
 "IA" = (/obj/structure/sign/department/hydrostorage,/turf/simulated/wall/prepainted,/area/space)
 "IB" = (/obj/effect/floor_decal/industrial/shutoff,/turf/simulated/floor/tiled,/area/space)
+"IM" = (/obj/structure/flora/pottedplant/bamboo,/obj/effect/floor_decal/corner/green,/obj/effect/floor_decal/corner/green{dir = 4},/obj/effect/floor_decal/corner/green{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"IO" = (/obj/effect/floor_decal/industrial/outline/yellow,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"IP" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"Jf" = (/obj/effect/floor_decal/corner/blue{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
 "Jg" = (/obj/effect/floor_decal/corner/green{dir = 8},/turf/simulated/floor/tiled,/area/space)
-"Jl" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"Jl" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/obj/effect/floor_decal/rust/part_rusted1,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"JG" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "JM" = (/obj/structure/railing/mapped,/obj/structure/railing/mapped{dir = 8},/turf/simulated/floor/plating,/area/space)
+"JO" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/fixed,/area/space)
+"JT" = (/obj/structure/bed/chair/comfy/green{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"Kc" = (/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled,/area/space)
+"Kd" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/space)
+"Km" = (/obj/machinery/suit_cycler,/turf/simulated/floor/tiled/dark,/area/space)
+"Ko" = (/obj/structure/flora/pottedplant/shoot,/turf/simulated/floor/wood/walnut,/area/space)
 "Kw" = (/obj/structure/hygiene/sink{pixel_y = 22},/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black{dir = 8},/obj/machinery/firealarm,/turf/simulated/floor/tiled,/area/space)
-"KI" = (/obj/machinery/computer/guestpass{pixel_y = 30},/turf/simulated/floor/fixed,/area/space)
-"KN" = (/obj/effect/floor_decal/corner/green{dir = 4},/obj/machinery/power/apc{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Kz" = (/obj/structure/stairs{dir = 4},/obj/structure/railing/mapped{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"KI" = (/obj/machinery/computer/guestpass{pixel_y = 30},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"KN" = (/obj/effect/floor_decal/corner/green{dir = 4},/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "KP" = (/obj/structure/table/woodentable/walnut,/obj/machinery/door/blast/shutters/open{dir = 8},/turf/simulated/floor/wood/walnut,/area/space)
 "KQ" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 9},/obj/effect/floor_decal/corner/orange{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"KT" = (/obj/structure/closet/toolcloset,/obj/effect/floor_decal/corner/orange{dir = 1},/obj/effect/floor_decal/corner/orange{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Le" = (/obj/effect/floor_decal/corner/blue/three_quarters{dir = 8},/obj/structure/table,/obj/item/folder/blue,/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled/dark,/area/space)
 "Lf" = (/turf/simulated/floor/tiled/monotile,/area/space)
 "Lj" = (/obj/effect/floor_decal/corner/orange{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Lk" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
+"Ly" = (/obj/structure/stairs{dir = 4},/obj/structure/railing/mapped,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "LH" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset{dir = 4},/turf/simulated/floor/tiled/monofloor,/area/space)
 "LK" = (/turf/space,/area/space)
 "LO" = (/obj/structure/stairs{dir = 8},/obj/structure/railing/mapped,/turf/simulated/floor/tiled/techfloor,/area/space)
+"LQ" = (/obj/structure/stairs{dir = 8},/obj/structure/railing/mapped,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"LT" = (/obj/effect/floor_decal/corner/orange,/turf/simulated/floor/tiled/techfloor,/area/space)
+"LZ" = (/obj/effect/floor_decal/corner/red{dir = 1},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/fixed,/area/space)
 "Ma" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/machinery/firealarm,/turf/simulated/floor/fixed,/area/space)
 "Mi" = (/obj/structure/railing/mapped,/obj/structure/railing/mapped{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "Mu" = (/obj/structure/catwalk,/turf/simulated/floor/plating,/area/space)
+"MH" = (/obj/structure/table,/obj/item/tank/jetpack/oxygen{pixel_x = 1; pixel_y = 1},/obj/item/tank/jetpack/oxygen,/obj/item/tank/jetpack/oxygen{pixel_x = -1; pixel_y = -1},/obj/random/tank,/turf/simulated/floor/tiled/dark,/area/space)
 "MJ" = (/obj/structure/railing/mapped,/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/plating,/area/space)
 "MY" = (/obj/machinery/vending/hydroseeds/generic,/turf/simulated/floor/fixed,/area/space)
-"Nu" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"Ng" = (/obj/effect/floor_decal/corner/white,/obj/effect/floor_decal/corner/blue{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"Nh" = (/obj/structure/table,/obj/item/weldingtool/largetank,/obj/effect/floor_decal/corner/orange{dir = 10},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Nk" = (/obj/effect/floor_decal/corner/green{dir = 9},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
+"Ns" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Nt" = (/obj/structure/railing/mapped{dir = 8},/obj/structure/railing/mapped,/turf/exterior/open,/area/space)
+"Nu" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "NA" = (/obj/effect/floor_decal/corner/blue,/obj/machinery/firealarm,/turf/simulated/floor/tiled,/area/space)
 "ND" = (/obj/effect/floor_decal/corner_techfloor_gray,/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "NI" = (/obj/structure/closet/secure_closet/freezer/meat,/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black{dir = 8},/turf/simulated/floor/tiled,/area/space)
-"NN" = (/obj/effect/floor_decal/corner/black{dir = 4},/obj/effect/floor_decal/corner/black{dir = 8},/obj/machinery/power/apc{dir = 8},/turf/simulated/floor/tiled,/area/space)
+"NM" = (/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/carpet,/area/space)
+"NN" = (/obj/effect/floor_decal/corner/black{dir = 4},/obj/effect/floor_decal/corner/black{dir = 8},/obj/machinery/power/apc{dir = 8},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/tiled,/area/space)
+"NO" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/steel_grid,/area/space)
 "NR" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/item/stool,/turf/simulated/floor/tiled,/area/space)
+"NV" = (/obj/effect/floor_decal/corner/blue{dir = 9},/obj/structure/reagent_dispensers/water_cooler,/turf/simulated/floor/tiled/dark,/area/space)
 "NY" = (/obj/machinery/vending/hydronutrients/generic,/turf/simulated/floor/fixed,/area/space)
 "Ob" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
 "Oc" = (/obj/structure/closet/crate/freezer/meat,/obj/effect/floor_decal/corner/black{dir = 8},/obj/effect/floor_decal/corner/black{dir = 1},/turf/simulated/floor/tiled,/area/space)
 "Od" = (/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"Ok" = (/obj/structure/table,/obj/item/paper_bin,/turf/simulated/floor/carpet,/area/space)
 "Oz" = (/obj/effect/floor_decal/corner/yellow{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
 "OB" = (/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"OC" = (/obj/effect/floor_decal/corner/white{dir = 4},/obj/effect/floor_decal/corner/red{dir = 1},/turf/simulated/floor/fixed,/area/space)
+"OG" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating,/area/space)
+"OH" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 9},/obj/effect/floor_decal/rust/part_rusted1,/turf/simulated/floor/tiled/dark,/area/space)
 "OM" = (/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
-"ON" = (/obj/machinery/door/airlock/hatch/maintenance,/turf/simulated/floor/tiled/steel_grid,/area/space)
+"ON" = (/obj/machinery/door/airlock/hatch/maintenance,/obj/machinery/door/firedoor/autoset{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/steel_grid,/area/space)
+"OP" = (/obj/item/clothing/suit/space/void/engineering/prepared,/obj/effect/floor_decal/corner/orange{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
+"OQ" = (/obj/machinery/power/apc{dir = 8},/obj/structure/cable{icon_state = "0-4"},/turf/simulated/floor/fixed,/area/space)
+"Pa" = (/obj/machinery/firealarm,/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"Pc" = (/obj/machinery/papershredder,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"Pk" = (/obj/structure/cable{icon_state = "2-4"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "Pn" = (/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
 "Pp" = (/obj/structure/sign/department/hydro,/turf/simulated/wall/prepainted,/area/space)
-"Pr" = (/obj/effect/floor_decal/corner/green{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"Pq" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 10},/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"Pr" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/white{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"Ps" = (/obj/effect/floor_decal/corner/green,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
+"Pv" = (/obj/structure/bed/chair/armchair/brown{dir = 1},/turf/simulated/floor/wood/walnut,/area/space)
+"Py" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/tiled/dark,/area/space)
 "PH" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/machinery/cooker/fryer,/turf/simulated/floor/tiled,/area/space)
 "PK" = (/obj/structure/closet/cabinet,/obj/effect/floor_decal/corner/orange{dir = 4},/obj/machinery/firealarm,/turf/simulated/floor/tiled/techfloor,/area/space)
-"PL" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
+"PL" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 6},/obj/effect/floor_decal/rust/part_rusted1,/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/obj/effect/floor_decal/rust/part_rusted1{dir = 1},/obj/machinery/firealarm{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"PN" = (/obj/structure/catwalk,/obj/machinery/firealarm,/turf/simulated/floor/plating,/area/space)
+"PQ" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/fixed,/area/space)
+"PX" = (/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/fixed,/area/space)
 "Qb" = (/obj/effect/floor_decal/corner/green{dir = 1},/obj/structure/janitorialcart,/turf/simulated/floor/tiled/techfloor,/area/space)
 "Qd" = (/obj/effect/floor_decal/industrial/shutoff,/turf/simulated/floor/tiled/techfloor,/area/space)
 "Qh" = (/obj/structure/table,/obj/item/storage/box/detergent,/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"Qv" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"QA" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/steel_grid,/area/space)
+"QB" = (/obj/structure/bed/chair/armchair/brown{dir = 8},/turf/simulated/floor/carpet,/area/space)
+"QO" = (/obj/machinery/firealarm{dir = 8},/turf/simulated/floor/fixed,/area/space)
 "QP" = (/obj/item/chems/welder_tank,/obj/item/weldingtool,/turf/simulated/floor/plating,/area/space)
-"QR" = (/obj/machinery/door/blast/shutters/open{dir = 8},/obj/machinery/firealarm,/turf/simulated/floor/wood/walnut,/area/space)
+"QR" = (/obj/machinery/door/blast/shutters/open{dir = 8},/obj/machinery/firealarm,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/wood/walnut,/area/space)
+"Rq" = (/obj/item/clothing/suit/space/void/security/alt/prepared,/obj/effect/floor_decal/corner/red{dir = 6},/turf/simulated/floor/tiled/dark,/area/space)
+"RF" = (/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"RH" = (/obj/structure/table,/obj/item/storage/toolbox/electrical{pixel_x = -2; pixel_y = -2},/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/electrical{pixel_x = 2; pixel_y = 2},/obj/effect/floor_decal/corner/orange{dir = 5},/turf/simulated/floor/tiled/techfloor,/area/space)
 "RI" = (/obj/effect/floor_decal/corner/green/diagonal,/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/fixed,/area/space)
+"RP" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/monofloor{dir = 1},/area/space)
 "Sa" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/turf/simulated/floor/tiled,/area/space)
+"Sg" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/monofloor,/area/space)
+"Si" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
 "Sj" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/table,/obj/machinery/microwave,/turf/simulated/floor/tiled,/area/space)
+"Sl" = (/obj/machinery/door/firedoor/autoset,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/steel_grid,/area/space)
 "Sp" = (/obj/effect/floor_decal/corner/green,/obj/structure/closet/l3closet/janitor,/turf/simulated/floor/tiled/techfloor,/area/space)
 "SE" = (/turf/simulated/floor/plating,/area/space)
 "SI" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/machinery/cooker/grill,/turf/simulated/floor/tiled,/area/space)
+"SN" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
 "SO" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/table,/turf/simulated/floor/tiled,/area/space)
 "SR" = (/obj/item/storage/fancy/cigarettes/dromedaryco,/turf/simulated/floor/plating,/area/space)
 "SV" = (/obj/structure/sign/warning/moving_parts,/turf/simulated/wall/r_wall/prepainted,/area/space)
 "SY" = (/turf/simulated/floor/tiled/monofloor{dir = 1},/area/space)
+"Tc" = (/obj/effect/floor_decal/industrial/shutoff,/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/fixed,/area/space)
+"Tj" = (/obj/structure/flora/pottedplant/thinbush,/turf/simulated/floor/wood/walnut,/area/space)
+"Tk" = (/obj/machinery/computer/modular/preset/dock,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"Tt" = (/obj/effect/floor_decal/corner/blue{dir = 4},/obj/machinery/firealarm,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
 "Tz" = (/obj/structure/hand_cart{desc = "A wheeled cart used to make moving laundry less difficult to move through the power of lever-arm and the wheel."; name = "laundry cart"},/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"TC" = (/obj/structure/bookcase/skill_books/random,/turf/simulated/floor/carpet,/area/space)
 "TI" = (/obj/machinery/media/jukebox{pixel_x = -3; pixel_y = 19},/obj/effect/floor_decal/corner/green/diagonal,/turf/simulated/floor/fixed,/area/space)
+"TK" = (/obj/effect/floor_decal/corner/green,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/fixed,/area/space)
+"TP" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/obj/effect/floor_decal/rust/part_rusted1{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "TZ" = (/obj/machinery/vending/snack,/turf/simulated/floor/tiled/monofloor{dir = 1},/area/space)
-"Uz" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/hygiene/sink/kitchen{dir = 4; pixel_x = -20},/turf/simulated/floor/tiled,/area/space)
+"Ub" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"Uy" = (/obj/effect/floor_decal/corner/blue{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
+"Uz" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/hygiene/sink/kitchen{dir = 4; pixel_x = -20},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled,/area/space)
+"UE" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/obj/effect/floor_decal/rust/part_rusted1{dir = 4},/obj/machinery/firealarm,/turf/simulated/floor/tiled/dark,/area/space)
 "UG" = (/obj/machinery/firealarm,/turf/simulated/floor/tiled,/area/space)
+"UH" = (/obj/effect/catwalk_plated,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/plating,/area/space)
+"UR" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled,/area/space)
 "US" = (/obj/effect/floor_decal/corner/black,/obj/effect/floor_decal/corner/black{dir = 1},/obj/structure/table,/obj/machinery/cooker/candy,/turf/simulated/floor/tiled,/area/space)
+"UT" = (/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"Vd" = (/obj/structure/table,/obj/item/clothing/shoes/magboots{pixel_x = -1; pixel_y = -1},/obj/item/clothing/shoes/magboots,/obj/item/clothing/shoes/magboots{pixel_x = 1; pixel_y = 1},/obj/item/stack/material/rods/ten,/turf/simulated/floor/tiled/dark,/area/space)
+"Vh" = (/obj/effect/floor_decal/steeldecal/steel_decals_central6,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "Vp" = (/obj/effect/floor_decal/industrial/warning/fulltile,/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
-"VB" = (/obj/structure/table,/turf/simulated/floor/tiled/dark,/area/space)
+"Vr" = (/obj/item/pipe/tank,/turf/simulated/floor/plating,/area/space)
+"Vx" = (/obj/structure/table,/obj/item/modular_computer/tablet,/turf/simulated/floor/carpet,/area/space)
+"VA" = (/obj/effect/floor_decal/corner/white{dir = 4},/obj/machinery/firealarm{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"VB" = (/obj/structure/table,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"VC" = (/obj/effect/floor_decal/corner/red{dir = 4},/turf/simulated/floor/fixed,/area/space)
+"VI" = (/obj/effect/floor_decal/corner/orange{dir = 9},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "VO" = (/obj/effect/floor_decal/corner/green{dir = 9},/turf/simulated/floor/fixed,/area/space)
-"VS" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/table,/obj/random/mre/sauce/sugarfree,/obj/item/kitchen/rollingpin,/turf/simulated/floor/tiled,/area/space)
+"VS" = (/obj/effect/floor_decal/corner/black{dir = 1},/obj/effect/floor_decal/corner/black,/obj/structure/table,/obj/random/mre/sauce/sugarfree,/obj/item/kitchen/rollingpin,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "VZ" = (/obj/effect/floor_decal/industrial/warning/fulltile,/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
+"Wb" = (/obj/effect/floor_decal/corner/yellow{dir = 5},/obj/machinery/firealarm,/turf/simulated/floor/tiled/techfloor,/area/space)
+"Wc" = (/obj/effect/floor_decal/corner/orange{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "Wd" = (/obj/effect/floor_decal/corner/green{dir = 10},/obj/machinery/firealarm,/turf/simulated/floor/tiled,/area/space)
 "Wl" = (/obj/machinery/door/blast/shutters/open{dir = 8},/obj/machinery/door/firedoor/autoset{dir = 4},/turf/simulated/floor/plating,/area/space)
+"Wm" = (/obj/effect/floor_decal/corner/white,/obj/machinery/firealarm{dir = 4},/turf/simulated/floor/fixed,/area/space)
 "Wo" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 9},/turf/simulated/floor/plating,/area/space)
+"WE" = (/obj/effect/floor_decal/corner/yellow,/obj/machinery/power/apc{dir = 4},/obj/structure/cable{icon_state = "0-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "WP" = (/obj/effect/floor_decal/industrial/shutoff,/turf/simulated/floor/fixed,/area/space)
 "WQ" = (/obj/effect/floor_decal/corner/green{dir = 5},/turf/simulated/floor/tiled,/area/space)
-"WT" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
+"WT" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/monofloor{dir = 4},/area/space)
 "WZ" = (/obj/effect/floor_decal/corner/green{dir = 5},/turf/simulated/floor/fixed,/area/space)
 "Xh" = (/obj/effect/floor_decal/industrial/outline/blue,/obj/structure/closet/emcloset,/turf/simulated/floor/tiled/monotile,/area/space)
 "Xo" = (/obj/effect/floor_decal/corner/green{dir = 4},/obj/machinery/firealarm,/turf/simulated/floor/tiled/techfloor,/area/space)
 "Xt" = (/obj/structure/railing/mapped{dir = 8},/obj/structure/railing/mapped,/turf/simulated/floor/tiled/dark,/area/space)
 "Xz" = (/obj/structure/fitness/weightlifter,/obj/item/towel,/turf/simulated/floor/tiled/dark,/area/space)
+"XE" = (/obj/effect/floor_decal/corner/blue{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
 "XF" = (/obj/effect/floor_decal/industrial/warning/fulltile,/obj/machinery/door/firedoor/autoset,/turf/simulated/floor/tiled/monofloor{dir = 8},/area/space)
+"XJ" = (/obj/structure/table/woodentable/walnut,/obj/item/storage/box/glasses,/obj/item/chems/drinks/juicebox/sensible_random,/turf/simulated/floor/wood/walnut,/area/space)
 "XP" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/turf/simulated/floor/tiled,/area/space)
 "XT" = (/obj/effect/floor_decal/corner/blue{dir = 8},/obj/effect/floor_decal/corner/red,/turf/simulated/floor/tiled,/area/space)
 "XU" = (/turf/simulated/floor/fixed,/area/space)
+"XV" = (/obj/structure/table,/obj/item/storage/toolbox/emergency,/obj/effect/floor_decal/corner/orange{dir = 1},/obj/machinery/power/apc{dir = 1},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled/techfloor,/area/space)
 "Ya" = (/obj/structure/sign/department/cargo,/turf/space,/area/space)
-"Yc" = (/obj/effect/catwalk_plated,/obj/machinery/firealarm{dir = 8},/turf/simulated/floor/plating,/area/space)
+"Yc" = (/obj/effect/catwalk_plated,/obj/machinery/firealarm{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/plating,/area/space)
 "Ye" = (/obj/structure/sign/department/watercloset,/turf/simulated/wall/prepainted,/area/space)
 "Yh" = (/obj/structure/sign/deck/second,/turf/simulated/wall/r_wall/prepainted,/area/space)
 "Yi" = (/obj/machinery/door/firedoor/autoset{dir = 4},/turf/simulated/floor/tiled/steel_grid,/area/space)
 "Yo" = (/obj/structure/table/woodentable/walnut,/obj/machinery/chemical_dispenser/bar_coffee,/obj/machinery/door/blast/shutters/open{dir = 8},/turf/simulated/floor/wood/walnut,/area/space)
+"Yu" = (/obj/effect/floor_decal/corner/green{dir = 6},/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/fixed,/area/space)
 "YI" = (/obj/effect/floor_decal/corner/yellow,/turf/simulated/floor/tiled/techfloor,/area/space)
+"YJ" = (/obj/effect/floor_decal/industrial/loading{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"YL" = (/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/techfloor,/area/space)
+"YO" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"YX" = (/obj/structure/bed/chair/comfy/green,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
+"YZ" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "1-4"},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/fixed,/area/space)
 "Zf" = (/obj/machinery/door/blast/shutters/open{dir = 8},/obj/structure/table,/turf/simulated/floor/tiled/steel_grid,/area/space)
-"Zk" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/obj/machinery/firealarm,/turf/simulated/floor/tiled,/area/space)
+"Zj" = (/obj/item/stool,/turf/simulated/floor/carpet,/area/space)
+"Zk" = (/obj/effect/floor_decal/corner/green{dir = 8},/obj/effect/floor_decal/corner/green{dir = 4},/obj/machinery/firealarm,/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled,/area/space)
 "Zo" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 9},/turf/simulated/floor/tiled/dark,/area/space)
 "Zp" = (/obj/machinery/biogenerator,/turf/simulated/floor/fixed,/area/space)
 "Zr" = (/obj/effect/floor_decal/corner/green{dir = 6},/turf/simulated/floor/fixed,/area/space)
 "Zt" = (/obj/structure/reagent_dispensers/watertank,/turf/simulated/floor/plating,/area/space)
+"ZA" = (/obj/structure/bed/chair/office/dark,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/space)
 "ZB" = (/obj/structure/railing/mapped{dir = 1},/obj/structure/railing/mapped{dir = 4},/turf/space,/area/space)
-"ZS" = (/obj/effect/floor_decal/corner/black{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"ZL" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/obj/effect/floor_decal/rust/part_rusted1{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"ZN" = (/obj/effect/floor_decal/corner_techfloor_gray{dir = 5},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/space)
+"ZS" = (/obj/effect/floor_decal/corner/black{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/turf/simulated/floor/tiled/dark,/area/space)
+"ZT" = (/obj/effect/floor_decal/corner/blue{dir = 9},/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/space)
 
 (1,1,1) = {"
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
@@ -347,91 +617,91 @@ LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUeUeULKLKLKjHXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKLKLKLKLKjHXUXUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUtneUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKjHXUXUjHjHjHhGjHjHLKLKLKLKLKLKLKLKLKLKeUsYeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKjHXUEnjHrnZkXPQhjHLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKjHXUEnjHTzXPXPnNjHjHjHjHhGjHjHjHSESESEeUSESEeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCLKeULKLKLKLKLKLKLKLKLKLKjHXUXUmgdvXPXPnNjHBXBRWdBRBRJgjHSESESESESESEeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCsOeULKLKLKLKLKLKLKLKLKLKjHXUXUmgdvXPXPnNjHnGXziHiHbjvbmgSESESEeUSESEeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUsOBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCsOeULKLKLKLKLKLKLKLKLKLKjHXUXUjHyByBhGyBjHnGGGvnvniHvbmgSESESEeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUsOBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCLKeULKLKLKLKLKLKLKLKLKLKjHEnXUBFOdkpXUXUYinGGYGGqgxxvbmgSESESESEqkSEAFjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKjHsOeULKLKLKLKLKLKLKLKLKLKjHEnXULHXUEnEnZrmgOBWQWQWQWQfSjHSESESEqkSESEAFjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUsOjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCsOeULKLKLKLKLKLKLKLKLKLKjHXUXUjHsbXUXUqNjHjHjHjHjHjHjHjHjHjHjHjHSESESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKfULKLKLKLKLKLKLKLKeUsOBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCLKeULKLKLKLKLKLKLKLKLKLKjHVpVZjHjHXFWTjHjHjHpYhBjHiKiKnvuawHgEjHSESEqkjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESEFkXUXUXUXUXUXUXUXUXUXUXUKIXUXUXUFhBFXUmCYimCFdFdFdFdIajHIAjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESEFkXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXULHXUOdYiZrcLcLcLcLVOMYNYWlMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUSEeUeUeUeUfLeUeUeUSVBsBsdEwCwCjHjHjHjHjHXFWTPpZrEnEnEnEnVOXUXUWlMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUeUeUSEeUNArczsXTrczsjzeUiHEnjHMuwpFkQPSRjHtGXUXUZfZrcLcLcLcLVOXUZpjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKirLKLKeUeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUdqrczsXTrczsGHSEPrEnjHwpMujHHIZtjHEKXUEnZfOdWZrdWZwikpXUXUYiMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUdqsGqQXTsGqQGHSEkSaUjHMuMujHjHjHjHjHXUEnjHjHjHjHjHjHwlwlwljHMuZteUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUIBHqHqHqHqHqIBYiaUaUjHjHMujHEYgwUGjHXUXUYisBsBlesBYiMuMuMuMuwpSEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUDxbzzgpObzzgHmSEiHaUTZjHMujHjHjHCTjHXFWTjHtvsBsBGDjHlJSESESESESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKPnOMLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUDxrczspOrczsHmSEEnaUdUjHMujHEYgwHqjHHdkcjHjHFkvajHjHxWjHjHjHSESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUDxrclXpOrczsdteUEnaUjHjHMujHjHjHHqjHVOZrWlsPsBsBQRsBsBsBleYiSESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESEeUeUeUeUeUeUeUeUeUDsaUjHSESEjHGTjcHqjHkpZrWlsBBdsBKPtAjmjmsBjHSESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESEjHinedededededYIjHDyaUjHqkqkjHjHhGYejHEnZrWlsBzSsBKPtAjmjmsBmgSESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESEjHhWrecrrecrreejjHOzaUjHjHMujHBvreKNjHEnZrWlsBtAsBYotAsBsBsBmgSEMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESESESESESEYiCMrecrQdcrrewJYiaUEnSYxgMuxgrerereYiVOWPjHwlwlwljHspspspjHjHjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESEYiLOrecrrecrreqqYiaUEnFtxgMuxgrereFljHEnZrjHugmUmUTImUmUmUMaCijHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESEjHinrecrrecrreYIjHnFaUjHjHwpjHqShGjHjHYcOdjHmUmUbvbvbvbvmUmUunjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESESESESEjHhWrerererereejjHDyaUjHSESEjHQbreXoqSHdXUYimUEnVBdTVBVBEngJjHjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESEjHjHjHFkFkFkjHjHjHEnaUjHSESEjHzErereYiXUXUYimUmUAKAKAKAKmUmUhAjHMujHeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESEjHinrerererereYIjHEnaUjHSESEjHGKHUSpjHkpXUjHRImUmUmUmUmUmUmUhKjHMujHeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESESESEjHhWrecrrecrreejjHOzaUjHjHSEjHjHjHjHjHzBHgyQyByByBjHEXEXjHhGjHjHMueUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKeUeUeUeUYhPnOMLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESEYiCMrecrrecrrewJYiaUaUSYONMuuRJMlgjHXhCLaUXtaKaKaUWlSaSaiMSajHMuMunLSELKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEWoLKLKLKLKLKeUaUaKaKMiXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESEYiLOrecrQdcrreqqYiaUaUFtjHMuMuMuMuxgaUaUcRaUtsaUaUWlSaNRSaSaYiMuSEnLSELKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEWoLKLKLKLKLKeUaUaUaUaUXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUSESEjHinrecrrecrreYIjHnFEnjHjHjMqfMuMujHaLZSaUjlxOxOaUWlSaVSSaakjHMuSEnLSELKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEWoLKLKLKLKLKeUaUxOxOZBXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESEjHhWczczczczczejjHOzEnjHjHjHjHwCwCjHjHzBHgjHjHjHjHjHSayESassjHMueUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKeUeUeUeUeUPnOMLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESEjHjHjHjHjHjHjHjHdEBsBsdEpYrZjHLjrePKjHxsmCjHNImrKwjHUzSIDOSjjHMuSEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESEONaUaUaUaUaUaUxgrererexgXUZrjHNNAvlbFkDOPHDOnujHMuqkeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESEjHDnObusyRyRNDjHuZrewcjHqVZrjHDODOSajHDODODOiUjHSESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESEjHjHZoEnjHjHjHjHtjrewwjHwKEnjHOcgjgjjHBNUSHOSOjHSEqkeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESESESESESESESESESEjHZoEnjHSESEjHwCwCjHjHxsEnjHjHjHjHjHjHjHjHjHjHSESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESESESESESESESESESESESEjHZoPLjHSESEjHSESESEjHuTOdjHqkSESEjHSESEGISESESESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESESESEjHZoPLjHSESEjHSESESEjHXUXUYiSEqkSEYiMuMuwpMuMuBQSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESESESEjHEnPLjHSEqkSESEMuMuYiEnXUjHSESESEjHxOxOxOxOZBMuSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKiGLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESESESESESEjHEnPLjHSESEjHSEMuMuYiEnXUjHjHjHjHjHLKLKLKLKduMuSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESESEjHEnPLjHjHjHjHjHSESEjHXUXUjHMJlglgjHjHjHjHjHjHSESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESESESESEjHZoPLjHMuMuMujHSESEjHXUXUjHMuMuBQMuMuMuMuMuMuqkSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESEjHZoPLjHMuMuMuMuSESEjHXUXUjHSESESESEAFSEjHjHSESESEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESESESEjHZoEnjHjHjHjHjHSESEjHXFWTjHhGjHjHjHjHjHjHjHjHSESEeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESEjHZoEnjHMuBQMuMuMuMujHXUXUFhXULfjHjyaUaUaUxDjHMuwpeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESESESESESESESEFkNuJlFkMuMuqtjMjMjMjHXUXUWPXULfjHaUaUaUaUaUjHMuMueUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESEFkObusFkMuMuSESEqkSEjHXUXUXUXULfjHaUaUaUaUaUjHMuMueUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESEeUeUFkFkeUeUjHjHXFWTjHjHjHjHjHjHjHjHBsBsBsjHjHjHjHSESEXUSEjHSESEeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKYaLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKeUeULKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESEeUKQMuMurQeUjHtGZoaUBFEnEnFiFiFiFiSYaUtsaUetaUaUxDaUaUaUaUaUaUaUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKeULKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEeUKQMuMurQeUjHEKObyRLHyRyRyRyREnEnFtaUaUaUetaUaUaUaUaUaUaUaUaUaUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKeULKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSEeUKQMuMurQeUjHjHPnOMjHjHjHjHjHjHjHjHBsBsBsjHeUeULKLKLKeUeUAfaUjleUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKeULKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUFkFkeUeUeUeUeUeUeULKLKLKLKLKLKLKXUXUXUjHeULKLKLKLKLKeUBStspxeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKeUeUeUeUeUeULKLKLKLKLKLKLKLKXUEnXUjHeULKLKLKLKLKeUBSaUpxeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKeUeULKLKLKLKLKLKLKLKXUEnXUjHeULKLKLKLKLKeUaUaUaUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXUjHeULKLKLKLKLKeUeUaUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXUjHeUeUeUeUeUeUeULKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXULKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXULKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXULKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUEnXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKXUXUXULKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
-LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKjHXUEnjHrnZkURQhjHLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKjHXUEnjHTzXPoanNjHjHjHjHhGjHjHjHMuMuSEeUSEHIeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCLKeULKLKLKLKLKLKLKLKLKLKjHXUXUmgdvXPoanNjHBXBRWdBRBRJgjHMuMuMuSESEceeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCsOeULKLKLKLKLKLKLKLKLKLKjHXUXUmgdvXPoanNjHnGXziHiHbjvbmgMuMuSEeUSESEeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUsOBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCsOeULKLKLKLKLKLKLKLKLKLKjHXUXUjHyByBSlyBjHnGGGvnvniHvbmgMuMuSEeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUsOBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCLKeULKLKLKLKLKLKLKLKLKLKjHEnXUBFOdkpJOhSqUqlGYGGqgxxvbmgMuMuSESEqkSEAFjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKjHsOeULKLKLKLKLKLKLKLKLKLKjHEnXULHXUEncOZrmgOBWQWQWQWQfSjHSESESEqkSESEAFjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUsOjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCsOeULKLKLKLKLKLKLKLKLKLKjHXUXUjHsbXUstqNjHjHjHjHjHjHjHjHjHjHjHjHSESESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKfULKLKLKLKLKLKLKLKeUsOBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKBCLKeULKjHjHjHjHjHjHjHjHjHjHVpVZjHjHXFWTjHjHjHpYhBjHiKiKnvuawHgEjHSESEqkjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKBCLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUMuSEFkhShShShShShShShShmhShSKIhSCDhSbaRPhSmCqUTKFdFdFdFdIajHIAjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUMuSEFkyUyUyUyUyUyUvdXUstXUXUXUXUXUXUXULHARePYiZrcLcLcLcLVOMYNYWlMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUMueUeUoFeUfLeUoFeUSVBsFndEwCwCjHjHjHjHjHdOWTPpZrEnEnEnEnVOXUXUWlMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUeUeUHoeUNArczsXTrczsjzeUiHcOjHMuwpFkQPSRjHtGARstZfZrcLcLcLcLVOXUZpjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKirLKLKeUeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUBUaYXJgXKojHpSeUdqrczsXTrczsGHSEPrcOjHwpMujHHIZtjHEKARcOZfOdWZrdWZwikpXUXUYiMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUsBjmjmjmsBjHpSeUdqsGqQXTsGqQGHSEkSnkjHMuMujHjHjHjHjHARcOjHjHjHjHjHjHwlwlwljHMuZteUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEZomqjmTCjmsBjHpSeUIBHqHqHqHqHqEZqUzaRFjHjHMujHEYgwUGjHARstYisBsBlesBYiMuMuMuMuwpSEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEZosBjmkqQBsBYipSeUDxbzzgpObzzgHmSEiHnkTZjHMujHjHjHCTjHdOWTjHtvsBsBGDjHlJSESESESExbjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKPnOMLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEZoPvjmrJQBsBjHpSeUDxrczspOrczsHmSEEnnkdUjHMujHEYgwUbjHHdkcjHjHhGvajHjHxWjHjHjHSEpxjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUsBjmqYjmsBjHpSeUDxrclXpOrczsdteUEnnkjHjHMujHjHjHUbjHNkxiWlsPyhyhQRtNsBsBleYiSEpxjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUtmoENMjmsBjHpSeUeUoFeUeUeUoFeUeUDsnkjHSESEjHGTjcKcjHAzxiWlsBBdsBKPaPjmjmsBjHSENtjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUbpsBnysBTjjHpSjHinededWbededYIjHDynkjHqkqkjHjHSlYejHUHxiWlsBzSsBKPaPjmjmsBmgSESEjHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHjHSlhGjHjHSljHhWrecrrecrreejjHOznkjHjHMujHBvtSKNjHUHxiWlsBtAsBYoaPsBsBsBmgSEMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUBlnkaUPaYinkYiCMrecrQdcrrewJYiaUcOSYxgMuxgreVhtyqUruTcjHwlwlwljHvWspspjHjHjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUHAEldlzaqUDSqULQBoIOBoIOylLyqUzaDEqTONHRONBoJGFljHUHxijHugmUmUTIPQmUmUMaCijHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUBkfdaUBYjHSljHinrecrrecrUTWEjHnFnkjHjHwpjHqSSljHjHYcePjHmUmUbvbvYXbvmUmUunjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUbQwPGZIMjHbRjHhWrerererereejjHDynkjHSESEjHQbtSXoqSHdJOqUCIAwVBdTHMVBAwgJjHjHMujHeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHjHjHjHpSjHjHvLFkFkFkvLjHjHEnnkjHHISEjHzEtSreYiARstYimUmUAKAKJTAKmUmUhAjHMujHeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESESESEpSjHinvrrererereYIjHEnnkjHSESEjHGKHUSpjHAzstjHRImUmUmUPQmUmUmUhKjHMujHeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHLKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUjMwnSEpSjHhWrecrrecrPkCejHOznkjHjHSEjHjHjHjHjHzBHgyQyByByBjHGqEXjHhGjHjHMueUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKeUeUeUeUYhPnOMLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUcedxSEcWqUFSBoIOBoIOqcKzqUzaohdLONHRuRJMlgjHXhCLnkXtaKaKaUWlSiSaiMSajHMuMunLSELKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEWoLKLKLKLKLKeUaUaKaKMiXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEdxSEpSYiLOrecrQdcrreqqYiaUnkFtjHMuMuMuMuxgaUfHcRaUtsaUaUWlSiNRSaSaYiMuSEnLSELKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEWoLKLKLKLKLKeUaUaUaUaUXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUSECfjHinrecrrecrreYIjHnFcOjHjHjMqfMuMujHaLZSnkjlkGkGaUWlgbVSLkakjHMuSEnLSELKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKSESEWoLKLKLKLKLKeUaUxOxOZBXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMujHhWczczczczczejjHOzcOjHjHjHjHwCwCjHjHzBHgjHjHjHjHjHSiyESassjHMueUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKeUeUeUeUeUPnOMLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMujHjHvLjHjHjHvLjHdEBsFndEpYrZjHLjrePKjHxsPsjHNImrKwjHUzSIDOSjjHMuSEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuMuMuMuMuMuMuMuMuxgaUzTKdwgzazaONBoaoNsONIPYujHNNAvlbQAojPHDOnujHMuqkeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuSESESESESESESESEjHDnObusyRyRNDjHuZrewcjHqVxijHDODOSajHDODODOiUjHSESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMueUeUeUeUeUeUeUeUeUeUZocOjHjHjHjHtjrewwjHwKcOjHOcgjgjjHBNUSHOSOjHSEqkeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUMueUBVRqeUUyvNeUgaOPeUZocOjHSESEjHwCwCjHjHxscOjHjHjHjHjHjHjHjHjHjHSESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUMueUBVAZSEUyvNSEgaOPeUZoPLjHSESEjHMuMuSEjHuTePjHqkSESEjHSESEGISESESESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESEMueUBVAZSEgBvNSEgaOPeUOHeFjHSESEjHMuMuSEjHARuCqUOGzbOGqUHRHRxKMuMuBQSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESEMueUeUeUhGhGeUhGhGeUhGhGeUEnEDjHSEqkSESEMuMuYiUHstjHSESESEjHkGkGkGkGEEMuSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKiGLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMueUoCFihtYOFihtYOiypQgZeUEnjkjHSESEjHSEMuMuYiUHstjHjHjHjHjHGJGJGJGJduMuSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSEMueUyayRrtPqyRyRyRyRObzIeUEnEDjHjHjHjHjHSESEjHARstjHMJlglgjHjHjHjHjHjHSESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMueUeUeUeUeUeUSESEeUsvPyeUOHAcjHvyMuMujHSESEjHARstjHMuMuBQMuMuMuMuMuMuqkSEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUMuMueUeUMHaUYiFsFiFiQvzReUlnEDjHMuMuMuMuSEiDjHARstjHSESESESEAFSEjHjHSESESEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuMueUVdKmSEObdKDGgRfReUZocOjHjHjHjHjHSESEjHdOWTjHhGjHjHjHjHjHjHjHjHSESEeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKXUXULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMueUeUeUeUhGSleUeUeUeUZocOjHMuBQMuMuMuMujHARstFhXULfjHjyzazatwxDjHMuwpeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuMuMuYihtaUElExubZNQANuJlYiMuMuqtjMjMjMjHARstWPXULfjHeCZjVxnkphjHMuMueUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUMuMuMuYiHBYJnbgSyRyRFkObusYiMuMuSESEqkSEjHARstXUXULfjHeCZjOknkxDjHMuMueUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSEeUeUhGSleUeUjHjHXFWTjHjHjHjHjHjHjHdENOFnBsjHjHjHjHyByBSlyBjHhGhGeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKYaLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKeUeULKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESEKQMupSrQeUjHtGZoqGBFEnEnUEZLFiTPSYfHAizaguzagonfzazafdaUaUaUaUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKeULKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESEKQMupSrQeUjHEKObfWSgDGDGDGDGAwAwqTzaSNaUetaUaUaUaUaUaUaUaUaUaUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKeULKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSEeUKQMuEeyveUjHjHPnOMjHjHjHjHjHjHjHdEBsbBBsjHeUeUtVtVtVeUeUAfaUjleUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKeULKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUFkFkeUeUeUeUeUeUeUMuMuPNMuMuMuYiXUlFXUjHeUGJGJGJGJGJeUBStspxeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKeUeUeUeUeUeUSEMuMuMuMuMuMuYiXUeOXUjHeUGJGJGJGJGJeUBSaUpxeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeULKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKeUeUSEMujHjHSEjHjHjHXUeOXUjHeUGJGJGJGJGJeUaUaUaUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHMuMujHSESEjHtGXUeOXUjHeUGJGJGJGJGJeUeUhGeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHMuMuSESESEjHEKXUlFXUjHqKeUeUeUeUeUeUduoepxGJeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUjHMuMujHjHjHjHjHXUYZhSRPqbCsqbCsLZdseUduoepxGJeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMuufmgXVRHkdjHQOlFxfLHiCiCiCiCdbAIeUduoepxGJeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMuVrmgVIEnGvmgXUeONgjHjHjHjHjHlWVAeUeUhGeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMuZtmgVIEngimgXUeONgjHLeaaHNmglWXUOCXUOCXUYireYiLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEFYjHjHgFBoBoqUhSdQNgmgZTtqXEmgAmxfXUeDXUeDmgreeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEpSjHKTWcreLTmgXUlFNgmgUyPcaUYistVCeUhGeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUwnEeOGBoYLEnGvmgXUlFNgjHUylipimgaCxfmNoeoeoeoeeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUdxMujHrereEnGvjHXUlFNgjHUyTkAGmglWVCmNoeoeoeoeeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUdxMujHFGnrNhfNjHXUeONgmgUyZAHQjHlWWmeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUdxMujHjHjHjHjHjHOQoWNgmgUynkAGmglWVCmNoeoeoeoeeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUxTMujHSESESEcejHXUeONgjHNVnkskmglWxfmNoeoeoeoeeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMuSESESESESEjHXUlFNgjHjHSljHjHlWVCeUhGeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSEMujHSESESESEjHXUCyJfRPbePXTtHvsuXUilXUilXUYireYiLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuMujHwlwlwlwljHXUXUXULHzQXUzQXUtuXUtuXUtuXUmgreeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuMuPNMuMuMuMujHXUXUXUeUyBeUhGeUyBeUyBeUhGeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUMuMuMuMuMuMuMujHjHFkjHeUSESESESESEeUSESESESESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUSEMuYiSESESEeUSESESESESEeUSESESESESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUSEMuYiSESESEeUSESESESESEeUSESESESESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUSEjHSESESEeUSESESESESEeUSESESESESEeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUSESEjHSESESEeUeUeUeUeUeUeUeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUSESEjHSESESESESEGxSESESESESESESESEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUjHSESESESESESESESESESESESESESEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESESESESEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESESESESEeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESESESESEeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESESESESEeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
+LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUSESESESESESESEeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeULKLKLKLKLKLKLKeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKeUeUeUeUeUeUeUeUeULKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
 LKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLKLK
