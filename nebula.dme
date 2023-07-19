@@ -1296,6 +1296,7 @@
 #include "code\game\objects\structures\morgue.dm"
 #include "code\game\objects\structures\pit.dm"
 #include "code\game\objects\structures\plasticflaps.dm"
+#include "code\game\objects\structures\platform.dm"
 #include "code\game\objects\structures\quicksand.dm"
 #include "code\game\objects\structures\racks.dm"
 #include "code\game\objects\structures\railing.dm"
