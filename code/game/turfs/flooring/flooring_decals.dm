@@ -1398,3 +1398,13 @@ var/global/list/floor_decals = list()
 
 /obj/effect/floor_decal/rust/steel_decals_rusted2
 	icon_state = "steel_decals_rusted2"
+
+/obj/effect/floor_decal/stencil/archon
+	name = "stenciled letters"
+	icon = 'icons/turf/flooring/archon.dmi'
+	icon_state = "archon"
+
+/obj/effect/floor_decal/stencil/archon/insignia
+	name = "stenciled letters"
+	icon = 'icons/turf/flooring/archon.dmi'
+	icon_state = "archon_insignia"
